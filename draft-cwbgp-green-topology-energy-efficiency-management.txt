@@ -14,7 +14,7 @@ Expires: 31 August 2025                                M. Boucadair, Ed.
                                                         27 February 2025
 
 
-     A Network Topology Data Model for Energy Efficiency Management
+  A YANG Network Topology Data Model for Energy Efficiency Management
      draft-cwbgp-green-topology-energy-efficiency-management-latest
 
 Abstract

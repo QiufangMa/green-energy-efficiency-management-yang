@@ -2,7 +2,7 @@
 
 
 
-GREEN                                                              Q. Ma
+GREEN                                                            G. Chen
 Internet-Draft                                                Q. Wu, Ed.
 Intended status: Standards Track                                  Huawei
 Expires: 31 August 2025                                M. Boucadair, Ed.
@@ -935,10 +935,10 @@ Acknowledgments
 
 Authors' Addresses
 
-   Qiufang Ma
+   Gen Chen
    Huawei
    China
-   Email: maqiufang1@huawei.com
+   Email: chengen@huawei.com
 
 
    Qin Wu (editor)
