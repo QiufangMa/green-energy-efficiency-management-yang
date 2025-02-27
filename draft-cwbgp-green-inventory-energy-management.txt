@@ -14,7 +14,7 @@ Expires: 31 August 2025                                M. Boucadair, Ed.
                                                         27 February 2025
 
 
-  A YANG Network Inventory Data Model for Energy Efficiency Management
+    A Network Inventory Data Model for Energy Efficiency Management
           draft-cwbgp-green-inventory-energy-management-latest
 
 Abstract
